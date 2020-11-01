@@ -1,0 +1,8 @@
+prefix=/home/ny/catkin_ws/devel
+
+Name: robm_nxt
+Description: Description of robm_nxt
+Version: 0.0.0
+Cflags: -I/home/ny/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

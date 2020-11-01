@@ -1,0 +1,8 @@
+prefix=/home/ny/catkin_ws/install
+
+Name: robm_nxt
+Description: Description of robm_nxt
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
